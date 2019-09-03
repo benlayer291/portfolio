@@ -1,0 +1,23 @@
+[build]
+  command = "yarn generate"
+  publish = "dist"
+
+# Specific branch context: Deploys from this branch
+# will take these settings and override their current ones.
+
+# deploy previews
+# pull requests
+[context.deploy-preview]
+[context.deploy-preview.environment]
+  NODE_ENV = "development"
+
+# develop--
+# active development
+[context.develop]
+[context.develop.environment]
+  NODE_ENV = "development"
+
+# production
+[context.production]
+[context.production.environment]
+  NODE_ENV = "production"
