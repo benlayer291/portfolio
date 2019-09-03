@@ -1,0 +1,49 @@
+/* ------------------------------------ *\
+  #Global Variables
+\* ------------------------------------ */
+
+:root {
+  /* Colour Palette */
+  --white: #ffffff;
+  --black: #000000;
+  --pink: #ffdbd7;
+  --blue: #0E4AA4;
+  --grey: #aaa;
+
+  /* Font */
+  --font: 'Palanquin', sans-serif;
+
+  /* Base Spacing Units */
+  --bsu-sm: 10px;
+  --bsu: 20px;
+  --bsu-md: 30px;
+  --bsu-lg: 40px;
+  --bsu-xl: 80px;
+  --bsu-xxl: 160px;
+
+  /* Scaffold */
+  --bmw: 1440px;
+  --gutter: 40px;
+
+  /* Transitions */
+  --trans: 0.25s ease;
+  --trans-smooth: 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+  --trans-inout: 0.5s cubic-bezier(0.86, 0, 0.07, 1);
+}
+
+/**
+ * Breakpoints.
+ */
+@custom-media --xxsMax (width < 400px);
+@custom-media --xxs    (width >= 400px);
+@custom-media --xsMax  (width < 600px);
+@custom-media --xs     (width >= 600px);
+@custom-media --smMax  (width < 800px);
+@custom-media --sm     (width >= 800px);
+@custom-media --mdMax  (width < 992px);
+@custom-media --md     (width >= 992px);
+@custom-media --lgMax  (width < 1200px);
+@custom-media --lg     (width >= 1200px);
+@custom-media --bmwMax (width < 1440px);
+@custom-media --bmw    (width >= 1440px);
+@custom-media --xl     (width >= 1600px);

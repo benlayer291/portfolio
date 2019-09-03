@@ -1,0 +1,18 @@
+/*------------------------------------*\
+  #Wrappers
+\*------------------------------------*/
+
+.wrapper {
+  padding-left: calc(var(--bsu-lg) + var(--bsu));
+  padding-right: calc(var(--bsu-lg) + var(--bsu));
+
+  @media(--xs) {
+    padding-left: var(--bsu-xl);
+    padding-right: var(--bsu-xl);
+  }
+
+  @media(--sm) {
+    padding-left: var(--bsu-lg);
+    padding-right: var(--bsu-lg);
+  }
+}
