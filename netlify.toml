@@ -30,8 +30,8 @@
     # Block site from being framed with X-Frame-Options and CSP
     Content-Security-Policy = '''
       default-src https:;
-      script-src https: 'self';
-      style-src https:;
+      script-src https: 'self' 'unsafe-inline' 'unsafe-eval';
+      style-src https: 'unsafe-inline';
       object-src 'none';
       img-src https:;
       connect-src https:;
