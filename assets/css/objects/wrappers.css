@@ -3,8 +3,8 @@
 \*------------------------------------*/
 
 .wrapper {
-  padding-left: var(--bsu-md);
-  padding-right: var(--bsu-md);
+  padding-left: var(--bsu);
+  padding-right: var(--bsu);
   max-width: 1400px;
   margin: 0 auto;
 
