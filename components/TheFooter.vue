@@ -50,6 +50,7 @@ export default {
 
 <style lang="postcss">
 .Footer {
+  padding-top: var(--bsu);
   padding-bottom: var(--bsu-lg);
 }
 
