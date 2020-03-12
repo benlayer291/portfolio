@@ -7,7 +7,7 @@
  */
 
 @font-face {
-  font-family: 'Palanquin';
+  font-family: 'EB Garamond';
 }
 
 /**
@@ -20,7 +20,7 @@ h3, .t-h3,
 h4, .t-h4,
 h5, .t-h5,
 h6, .t-h6 {
-  font-weight: bold;
+  font-weight: normal;
 }
 
 h1, .t-h1 {
@@ -28,18 +28,13 @@ h1, .t-h1 {
   line-height: 1;
   letter-spacing: .02em;
 
-  @media(--xs) {
+  @media(--sm) {
     font-size: 100px;
   }
 
-  @media(--sm) {
-    font-size: 80px;
-  }
-
   @media(--md) {
-    font-size: 105px;
+    font-size: 110px;
   }
-
 }
 
 h2, .t-h2 {
@@ -116,15 +111,10 @@ h6, .t-h6 {
 p, 
 address, 
 .t-para {
-  font-size: 15px;
-  line-height: calc(21/15);
+  font-size: 30px;
+  line-height: calc(42/30);
   font-weight: normal;
   letter-spacing: .02em;
-
-  @media(--xs) {
-    font-size: 30px;
-    line-height: calc(42/30);
-  }
 
   @media(--sm) {
     font-size: 34px;
@@ -142,8 +132,18 @@ address,
     opacity: 1;
     line-height: 1.75;
 
-    &:hover {
+    &:hover,
+    &:focus,
+    &:active {
       opacity: .5;
     }
   }
 }
+
+/**
+ * Alignment.
+ */
+
+ .t-align-right {
+   text-align: right;
+ }

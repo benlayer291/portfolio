@@ -15,7 +15,7 @@
 * Layout.
 */
 @import "./layout/page";
-@import "./layout/grid";
+@import "./layout/rhythm";
 
 /**
 * Objects.

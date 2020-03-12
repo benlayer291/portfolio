@@ -9,7 +9,7 @@ export default {
   /*
    ** Customize the progress-bar color
    */
-  loading: { color: '#fff' },
+  loading: false,
   /*
    ** Global CSS
    */
@@ -19,18 +19,12 @@ export default {
       src: '~/assets/css/base.css'
     }
   ],
-  /*
-   ** Plugins to load before mounting the App
-   */
-  plugins: [],
+
   /*
    ** Nuxt.js dev-modules
    */
   buildModules: ['@nuxtjs/eslint-module'],
-  /*
-   ** Nuxt.js modules
-   */
-  modules: [],
+
   /*
    ** Build configuration
    */

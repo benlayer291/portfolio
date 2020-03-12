@@ -3,7 +3,7 @@ export default {
   link: [
     {
       rel: 'stylesheet',
-      href: 'https://fonts.googleapis.com/css?family=Palanquin|Palanquin+Dark'
+      href: 'https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap'
     },
     {
       rel: 'apple-touch-icon',
@@ -54,7 +54,7 @@ export default {
       content: 'Ben Layer'
     },
     {
-      content: 'Ben Layer portfolio site',
+      content: 'Ben Layer - Architect —ing, Developer —ing, Lead —ing',
       hid: 'description',
       name: 'description'
     },
@@ -63,7 +63,7 @@ export default {
       name: 'dcterms.Contributor'
     },
     {
-      content: 'https://benlayer.netlify.com',
+      content: 'https://benlayer.com',
       name: 'dcterms.Coverage'
     },
     {
@@ -71,7 +71,7 @@ export default {
       name: 'dcterms.Creator'
     },
     {
-      content: 'Ben Layer portfolio site',
+      content: 'Ben Layer - Architect —ing, Developer —ing, Lead —ing',
       name: 'dcterms.Description',
       hid: 'dcterms.Description'
     },
@@ -80,7 +80,7 @@ export default {
       name: 'dcterms.Format'
     },
     {
-      content: 'https://benlayer.netlify.com',
+      content: 'https://benlayer.com',
       name: 'dcterms.Identifier'
     },
     {
@@ -101,7 +101,7 @@ export default {
       name: 'dcterms.Type'
     },
     {
-      content: 'Ben Layer portfolio site',
+      content: 'Ben Layer - Architect —ing, Developer —ing, Lead —ing',
       hid: 'og:description',
       name: 'og:description'
     },
@@ -113,10 +113,6 @@ export default {
     {
       content: 'en_GB',
       name: 'og:locale'
-    },
-    {
-      content: 'https://www.instagram.com/benlayer291/',
-      name: 'og:see_also'
     },
     {
       content: 'Ben Layer',
@@ -132,7 +128,7 @@ export default {
       name: 'og:type'
     },
     {
-      content: 'https://benlayer.netlify.com',
+      content: 'https://benlayer.com',
       name: 'og:url'
     },
     {
@@ -154,6 +150,5 @@ export default {
       hid: 'twitter:title',
       name: 'twitter:title'
     }
-  ],
-  titleTemplate: '%s - Ben Layer'
+  ]
 }
