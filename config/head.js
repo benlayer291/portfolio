@@ -38,7 +38,7 @@ export default {
     },
     {
       name: 'theme-color',
-      content: '#ffffff'
+      content: '#ffdbd7'
     },
     {
       name: 'viewport',
