@@ -12,7 +12,7 @@
       </p>
     </BaseSection>
     <BaseSection>
-      <p>Former Chemistry teacher</p>
+      <p>Former Chemistry Teacher</p>
       <p>Previously at TuiMedia and General Assembly</p>
     </BaseSection>
   </main>
