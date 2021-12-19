@@ -12,6 +12,7 @@
     "lint": "eslint --ext .js,.vue --ignore-path .gitignore ."
   },
   "dependencies": {
+    "@babel/preset-env": "^7.16.5",
     "nuxt": "^2.0.0",
     "postcss-calc": "^7.0.1",
     "postcss-import": "^12.0.1",
