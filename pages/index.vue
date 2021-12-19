@@ -6,14 +6,26 @@
       <h3 class="t-para">Lead —ing</h3>
       <p class="t-align-right">
         at
-        <a href="https://studiorotate.com/" target="_blank" rel="noopener">
-          Rotate°
+        <a href="https://farewill.com/" target="_blank" rel="noopener">
+          Farewill
         </a>
       </p>
     </BaseSection>
     <BaseSection>
       <p>Former Chemistry Teacher</p>
-      <p>Previously at TuiMedia and General Assembly</p>
+      <p>
+        Previously at
+        <a href="https://studiorotate.com/" target="_blank" rel="noopener">
+          Rotate° </a
+        >,
+        <a href="https://www.tuimedia.com/" target="_blank" rel="noopener">
+          TuiMedia
+        </a>
+        and
+        <a href="https://generalassemb.ly/" target="_blank" rel="noopener">
+          General Assembly
+        </a>
+      </p>
     </BaseSection>
   </main>
 </template>
