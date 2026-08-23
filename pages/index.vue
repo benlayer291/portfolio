@@ -17,7 +17,7 @@
         Previously at
         <a href="https://farewill.com/" target="_blank" rel="noopener">
           Farewill
-        </a>
+        </a>,
         <a href="https://madebyon.com/" target="_blank" rel="noopener">
           Made By ON
         </a>,
