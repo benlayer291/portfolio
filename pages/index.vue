@@ -6,8 +6,8 @@
       <h3 class="t-para">Lead —ing</h3>
       <p class="t-align-right">
         at
-        <a href="https://farewill.com/" target="_blank" rel="noopener">
-          Farewill
+        <a href="https://studiorotate.com/" target="_blank" rel="noopener">
+          Rotate°
         </a>
       </p>
     </BaseSection>
@@ -15,9 +15,12 @@
       <p>Former Chemistry Teacher</p>
       <p>
         Previously at
-        <a href="https://studiorotate.com/" target="_blank" rel="noopener">
-          Rotate° </a
-        >,
+        <a href="https://farewill.com/" target="_blank" rel="noopener">
+          Farewill
+        </a>
+        <a href="https://madebyon.com/" target="_blank" rel="noopener">
+          Made By ON
+        </a>,
         <a href="https://www.tuimedia.com/" target="_blank" rel="noopener">
           TuiMedia
         </a>
