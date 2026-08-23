@@ -15,18 +15,15 @@
       <p>Former Chemistry Teacher</p>
       <p>
         Previously at
-        <a href="https://farewill.com/" target="_blank" rel="noopener">
-          Farewill
-        </a>,
         <a href="https://madebyon.com/" target="_blank" rel="noopener">
           Made By ON
         </a>,
-        <a href="https://www.tuimedia.com/" target="_blank" rel="noopener">
-          TuiMedia
+        <a href="https://farewill.com/" target="_blank" rel="noopener">
+          Farewill
         </a>
         and
-        <a href="https://generalassemb.ly/" target="_blank" rel="noopener">
-          General Assembly
+        <a href="https://www.tuimedia.com/" target="_blank" rel="noopener">
+          TuiMedia
         </a>
       </p>
     </BaseSection>
