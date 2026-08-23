@@ -22,7 +22,7 @@ export default {
     return {
       links: [
         {
-          href: 'mailto:hello@benlayer.com?Subject=Portfolio contact',
+          href: 'mailto:benlayer291@gmail.com?Subject=Portfolio contact',
           copy: 'Email',
           attrs: {}
         },
